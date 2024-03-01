@@ -1,0 +1,20 @@
+# POST http://localhost:3636 HTTP/1.1
+# Content-Type: application/json
+
+# {
+#   "name": "wang",
+#   "hobby": [
+#     {
+#       "id": 1,
+#       "raw": "abc"
+#     },
+#     {
+#       "id": 2,
+#       "raw": "bca"
+#     }
+#   ]
+# }
+
+
+GET http://localhost:3636?a=1&b=2 HTTP/1.1
+
