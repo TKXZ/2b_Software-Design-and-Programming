@@ -16,5 +16,5 @@
 # }
 
 
-GET http://localhost:3636?a=1&b=2 HTTP/1.1
+GET http://localhost:3636/routes-list?username=user HTTP/1.1
 
